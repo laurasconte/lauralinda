@@ -81,8 +81,8 @@ const POSTS = [
     tags: ['Multimídia','Mídia','Digital','História'],
     date: 'Mar 2025', readTime: '6 min',
     body: `
-      <p>O termo <strong>multimídia</strong> refere-se à integração de múltiplas formas de mídia — texto, imagem, áudio, vídeo e animação — em um único suporte ou experiência.</p>
-
+      <p>Você já parou pra pensar que quando abre o Instagram, em segundos você consome texto, imagem, vídeo e áudio ao mesmo tempo? Isso é multimídia no seu estado mais puro — e ela está em absolutamente tudo no mundo digital. Bora entender de onde veio e como funciona?</p>
+      <p>O que é Multimídia, afinal?</p>
       <h3>Componentes da Multimídia</h3>
       <ul>
         <li><strong>Texto:</strong> A base informacional — títulos, parágrafos, legendas.</li>
