@@ -83,6 +83,10 @@ const POSTS = [
     body: `
       <p>Você já parou pra pensar que quando abre o Instagram, em segundos você consome texto, imagem, vídeo e áudio ao mesmo tempo? Isso é multimídia no seu estado mais puro — e ela está em absolutamente tudo no mundo digital. Bora entender de onde veio e como funciona?</p>
       <p>O que é Multimídia, afinal?</p>
+      <p>
+      O termo vem do latim multus (muitos) + medium (meio). Na prática, multimídia é a integração de dois ou mais tipos de mídia — texto, imagem, áudio, vídeo e interatividade — em um único suporte ou experiência. Simples assim.
+      Mas atenção: um livro com fotos não é necessariamente multimídia no sentido moderno. O que diferencia a multimídia digital é a interatividade — a possibilidade de o usuário participar, escolher e navegar.
+      💡 Curiosidade: O termo foi popularizado na década de 1990 com o boom dos CD-ROMs, quando enciclopédias digitais com vídeos e áudios pareciam mágica pura.</p>
       <h3>Componentes da Multimídia</h3>
       <ul>
         <li><strong>Texto:</strong> A base informacional — títulos, parágrafos, legendas.</li>
